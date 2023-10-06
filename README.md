@@ -4,7 +4,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/@comedymelodych8468">
-    <img alt=ABHISHEK-SER height="300" src="https://drive.google.com/file/d/1yVgy3VmF5B6n4Q06ww7zXhhHQp3vV2Ja/view?usp=sharing">
+    <img alt=ABHISHEK-SER height="300" src="https://images.pexels.com/photos/3179911/pexels-photo-3179911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
    
 </a> 
     
@@ -13,7 +13,7 @@
 <a 
 
 ####  
-ABHISHEK-SER Multi Device Whatsapp Bot.
+Anonymous Multi Device Whatsapp Bot.
 
 ***
 
